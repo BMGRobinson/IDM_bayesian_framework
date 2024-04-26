@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbf.a CMakeFiles/bf.dir/src/bayesianPosterior.cpp.o CMakeFiles/bf.dir/src/config.cpp.o CMakeFiles/bf.dir/src/filters.cpp.o CMakeFiles/bf.dir/src/mcmc.cpp.o CMakeFiles/bf.dir/src/optimization.cpp.o CMakeFiles/bf.dir/src/pdf.cpp.o CMakeFiles/bf.dir/src/samples.cpp.o CMakeFiles/bf.dir/src/statespace.cpp.o CMakeFiles/bf.dir/src/wrapper.cpp.o CMakeFiles/bf.dir/src/tmcmc.cpp.o CMakeFiles/bf.dir/src/simulate.cpp.o CMakeFiles/bf.dir/src/IQAgent.cpp.o
+/usr/bin/ranlib libbf.a

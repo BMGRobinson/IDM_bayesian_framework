@@ -1,0 +1,3 @@
+repository='external project URL'
+module='/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo-8.500.1.tar.xz'
+tag=''

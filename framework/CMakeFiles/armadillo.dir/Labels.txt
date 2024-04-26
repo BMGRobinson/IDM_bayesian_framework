@@ -1,0 +1,13 @@
+# Target labels
+ armadillo
+# Source files and their labels
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/CMakeFiles/armadillo
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/CMakeFiles/armadillo.rule
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/CMakeFiles/armadillo-complete.rule
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-stamp/armadillo-build.rule
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-stamp/armadillo-configure.rule
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-stamp/armadillo-download.rule
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-stamp/armadillo-install.rule
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-stamp/armadillo-mkdir.rule
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-stamp/armadillo-patch.rule
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-stamp/armadillo-update.rule

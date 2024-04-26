@@ -1,0 +1,51 @@
+	run specified..................................................................False
+	run specified..................................................................False
+	run specified..................................................................False
+	run specified..................................................................False
+	run specified..................................................................True
+Reading model Model4_ENKFSS
+	Simulation parameters
+	dt specified...................................................................0.1
+	fStepsBetweenMeasurements specified............................................10
+	folder specified..............................................................."Case00"
+	data specified................................................................."data.dat"
+	handle specified..............................................................."m4enkf"
+	measurementCov specified......................................................."variance.dat"
+	state_estimator specified......................................................"enkf"
+
+	State Estimation parameters
+	State_Estimation specified.....................................................True
+	seruns specified...............................................................1
+	Model Parameters for state estimation  : 0.226729 0.00481918 0.137355 0.00111125 
+	parallelGroups not found or invalid type. Using default value..................1
+	nprocs specified...............................................................1
+	nparticles not found or invalid type. Using default value......................1000
+	Initial state : 0.999 0.001 0 0.155 
+	Initial state variance : 
+		1e-07 0 0 0 
+		0 1e-07 0 0 
+		0 0 1e-07 0 
+		0 0 0 1e-07 
+
+	process_noise_covariance : 
+		0 0 0 0 
+		0 0 0 0 
+		0 0 0 0 
+		0 0 0 1 
+
+
+	MCMC parameters
+	MCMC_CONFIG flag not found. Will not perform parameter estimation using MCMC.
+
+	Evidence Estimation parameters
+	Evidence_Estimation specified..................................................False
+	EVIDENCE_CONFIG flag not found. Will not estimate the evidence.
+
+	Optimization parameters
+	doOptimization not found or invalid type. Using default value..................False
+
+	State Estimation Error
+	doStateEstimationError not found or invalid type. Using default value..........False
+	run specified..................................................................False
+	run specified..................................................................False
+	run specified..................................................................False

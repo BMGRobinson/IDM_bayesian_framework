@@ -1,0 +1,7 @@
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-build/CMakeFiles/armadillo.dir
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-build/CMakeFiles/edit_cache.dir
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-build/CMakeFiles/rebuild_cache.dir
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-build/CMakeFiles/list_install_components.dir
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-build/CMakeFiles/install.dir
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-build/CMakeFiles/install/local.dir
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-build/CMakeFiles/install/strip.dir

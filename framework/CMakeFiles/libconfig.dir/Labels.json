@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/CMakeFiles/libconfig"
+		},
+		{
+			"file" : "/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/CMakeFiles/libconfig.rule"
+		},
+		{
+			"file" : "/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/CMakeFiles/libconfig-complete.rule"
+		},
+		{
+			"file" : "/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/libconfig/src/libconfig-stamp/libconfig-build.rule"
+		},
+		{
+			"file" : "/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/libconfig/src/libconfig-stamp/libconfig-configure.rule"
+		},
+		{
+			"file" : "/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/libconfig/src/libconfig-stamp/libconfig-download.rule"
+		},
+		{
+			"file" : "/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/libconfig/src/libconfig-stamp/libconfig-install.rule"
+		},
+		{
+			"file" : "/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/libconfig/src/libconfig-stamp/libconfig-mkdir.rule"
+		},
+		{
+			"file" : "/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/libconfig/src/libconfig-stamp/libconfig-patch.rule"
+		},
+		{
+			"file" : "/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/libconfig/src/libconfig-stamp/libconfig-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libconfig"
+		],
+		"name" : "libconfig"
+	}
+}

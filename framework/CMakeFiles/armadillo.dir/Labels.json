@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/CMakeFiles/armadillo"
+		},
+		{
+			"file" : "/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/CMakeFiles/armadillo.rule"
+		},
+		{
+			"file" : "/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/CMakeFiles/armadillo-complete.rule"
+		},
+		{
+			"file" : "/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-stamp/armadillo-build.rule"
+		},
+		{
+			"file" : "/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-stamp/armadillo-configure.rule"
+		},
+		{
+			"file" : "/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-stamp/armadillo-download.rule"
+		},
+		{
+			"file" : "/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-stamp/armadillo-install.rule"
+		},
+		{
+			"file" : "/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-stamp/armadillo-mkdir.rule"
+		},
+		{
+			"file" : "/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-stamp/armadillo-patch.rule"
+		},
+		{
+			"file" : "/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/armadillo/src/armadillo-stamp/armadillo-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"armadillo"
+		],
+		"name" : "armadillo"
+	}
+}

@@ -1,0 +1,13 @@
+# Target labels
+ libconfig
+# Source files and their labels
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/CMakeFiles/libconfig
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/CMakeFiles/libconfig.rule
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/CMakeFiles/libconfig-complete.rule
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/libconfig/src/libconfig-stamp/libconfig-build.rule
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/libconfig/src/libconfig-stamp/libconfig-configure.rule
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/libconfig/src/libconfig-stamp/libconfig-download.rule
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/libconfig/src/libconfig-stamp/libconfig-install.rule
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/libconfig/src/libconfig-stamp/libconfig-mkdir.rule
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/libconfig/src/libconfig-stamp/libconfig-patch.rule
+/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/libconfig/src/libconfig-stamp/libconfig-update.rule

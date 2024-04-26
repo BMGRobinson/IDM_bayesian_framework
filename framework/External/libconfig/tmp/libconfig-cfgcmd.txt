@@ -1,0 +1,1 @@
+cmd='/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/External/libconfig-1.7.2/configure;--prefix=/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/libconfig'

@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DCMAKE_INSTALL_PREFIX=/home/brandon/Documents/1_Carleton/2_Research/3_Code/Philippe/framework/armadillo/;-DCMAKE_INSTALL_LIBDIR=lib;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
