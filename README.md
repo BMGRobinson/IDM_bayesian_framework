@@ -24,13 +24,13 @@ Can be run from the command line, plots will not be displayed, but figures and d
 `/framework/Examples/GenData_SIR_viewer.ipynb`  
 Can be run in VS Code, Jupyter notebooks, Google Colab etc. plots will be displayed inline, figures and data will also be saved in the appropriate subdirectory.
 
-Existing results can be plotted, and cases can be modified or re-run from the following subdirectories:
+Existing results can be plotted, and cases can be modified or re-run from the following subdirectories:  
 `/framework/Examples/Case00` Section 3.1.1 Synthetic data case 1: random variations  
 `/framework/Examples/Case01` Section 3.1.2 Synthetic data case 2: seasonal variations  
 `/framework/Examples/Case02` Section 3.1.3 Synthetic data case 3: abrubt lockdown measures  
 `/framework/Examples/Case03` Section 3.2 Public health data: Ontario (April 1, 2020 - March 31, 2021)  
 
-Within these directories, the parameter estimation and state estimation results can be plotted by running either of the following ipython notebooks: 
+Within these directories, the parameter estimation and state estimation results can be plotted by running either of the following ipython notebooks:  
 `/framework/Examples/Case0X/PlotPDF0X_commandline.ipynb`  or `/framework/Examples/Case0X/PlotPDF0X_viewer.ipynb`  
 `/framework/Examples/Case0X/PlotSE0X_commandline.ipynb`  or `/framework/Examples/Case0X/PlotSE0X_viewer.ipynb`  
 
