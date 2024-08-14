@@ -10,7 +10,7 @@ The code used to generate the results presented in the paper [A Bayesian model c
 
 
 # Installation
-The code is tested on Mint 18.2, Ubuntu 22.04, and various machines in the Digital Reseach Alliance of Canada consortium. README files and scripts relevant to the compilation of the framework on these systems can be found at:  
+The code is tested on Mint 18.2, Ubuntu 22.04, and various machines in the Digital Reseach Alliance of Canada consortium (currently for the machine 'Graham'). README files and scripts relevant to the compilation of the framework on these systems can be found at:  
 `/framework/readme_mint182`  
 `/framework/readme_ubuntu2204`  
 `/framework/readme_graham`  

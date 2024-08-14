@@ -1,32 +1,32 @@
-Install the required packages:
-> sudo apt-get install libconfig-dev
-> sudo apt-get install openmpi-bin
-> sudo apt-get install openmpi-doc
-> sudo apt-get install libopenmpi-dev
-> sudo apt-get install libblas-dev liblapack-dev
-> sudo apt-get install libopenblas-dev
-	
-The code can be compiled by running the following script in the directory /path-to-framework/framework/
-> . run_mint.sh
+Install the required packages:  
+` sudo apt-get install libconfig-dev`  
+` sudo apt-get install openmpi-bin`  
+` sudo apt-get install openmpi-doc`  
+` sudo apt-get install libopenmpi-dev`  
+` sudo apt-get install libblas-dev liblapack-dev`  
+` sudo apt-get install libopenblas-dev`  
+  	
+The code can be compiled by running the following script in the directory `/path-to-framework/framework/`  
+` . run_mint.sh`  
 
-Once the code is compiled, to run the code use the command in the directory /path-to-framework/framework/Examples/sir_mcmc/:
-> mpirun -n 2 ./run case00.cfg
+Once the code is compiled, to run the code use the command in the directory `/path-to-framework/framework/Examples/sir_mcmc/`  
+` mpirun -n 2 ./run case00.cfg`  
 
-If it runs successfully the output in the terminal should look something like this:
-=======================================================================
-===================== Reading configuration file ======================
-
-Configuration file used : case00.cfg
-Number of proposed models: 1
-It seems that data points are stored in rows. Transposing the matrix
-It seems that data points are stored in rows. Transposing the matrix
-P used: 0.00434971
-   0.0129
-   0.0064
-Rejection ratio 0.64196
-...
-P used: 1
-   1.9102e-08
-   3.5916e-08
-Rejection ratio 0.13012
+If it runs successfully the output in the terminal should look something like this:  
+```=======================================================================  
+===================== Reading configuration file ======================  
+  
+Configuration file used : case00.cfg  
+Number of proposed models: 1  
+It seems that data points are stored in rows. Transposing the matrix  
+It seems that data points are stored in rows. Transposing the matrix  
+P used: 0.00434971  
+   0.0129  
+   0.0064  
+Rejection ratio 0.64196  
+...  
+P used: 1  
+   1.9102e-08  
+   3.5916e-08  
+Rejection ratio 0.13012``` 
 	
