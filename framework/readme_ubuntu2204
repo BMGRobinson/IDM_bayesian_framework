@@ -7,9 +7,9 @@ Install the required packages:
 ` sudo apt-get install libopenblas-dev`  
   	
 The code can be compiled by running the following script in the directory `/path-to-framework/framework/`  
-` . run_mint.sh`  
+` . run_ubuntu.sh`  
 
-Once the code is compiled, to run the code use the command in the directory `/path-to-framework/framework/Examples/sir_mcmc/`  
+Once the code is compiled, to run the code use the command in the directory `/path-to-framework/framework/Examples/`  
 ` mpirun -n 2 ./run case00.cfg`  
 
 If it runs successfully the output in the terminal should look something like this:  

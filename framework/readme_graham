@@ -1,7 +1,7 @@
 The relevant modules can be loaded and the code can be compiled by running the following script in the directory `/path-to-framework/framework/`  
 ` . run_graham.sh`
 
-Running the following scripts in the directory path-to-framwork/framework/Examples/sir_mcmc/ will submit a job (job runs for ~1 minute)  
+Running the following scripts in the directory path-to-framwork/framework/Examples/ will submit a job (job runs for ~1 minute)  
 ` . run_case.sh`  
 
 If it runs successfully the output in the terminal should look something like this:  
